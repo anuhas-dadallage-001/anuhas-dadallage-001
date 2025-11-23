@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anuhasdadallage" target="blank"><img src="https://img.shields.io/twitter/follow/anuhasdadallage?logo=twitter&style=for-the-badge" alt="anuhasdadallage" /></a> </p>
 
-- 🌱 I’m currently learning **react,java,css,Javascript**
+- 🌱 I’m currently learning **Java Javascript PHP C++ React HTML CSS Vs Code IntelliJ IDE NetBeans IDE Android Studio Arduino ide MySQL Workbench Git Figma**
 
 - 👨‍💻 All of my projects are available at [https://www.dbexsoft.com/](https://www.dbexsoft.com/)
 
